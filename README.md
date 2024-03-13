@@ -1,3 +1,6 @@
+
+DIO-Project-Testes-QA
+
 Este repositório contém o projeto desenvolvido como parte do curso "O dia a dia de um QA: a prática de testes manuais funcionais", oferecido como parte do módulo "Fundamentos de qualidade e desenvolvimento de software" do Bootcamp WEX - Desenvolvimento .NET e QA.
 
 A documentação do projeto está disponível em formato PDF.
